@@ -105,14 +105,6 @@ The app will be deployed to `https://vcr11.github.io/Wheather-APP`.
 - **Search for a City**: Enter the name of the city you want to check the weather for in the search bar and press **Enter**.
 - The app will display the current weather conditions for the searched city, including temperature, weather description, and a 5-day weather forecast.
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me:
