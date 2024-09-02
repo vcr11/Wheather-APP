@@ -1,10 +1,10 @@
-Thank you for the information. I'll update the README to highlight the 5-day forecast feature.
-
----
-
 # Weather App
 
 This is a Weather App built with React.js that allows users to search for and display current weather conditions, including a 5-day forecast, for any city in the world. The app fetches data from the OpenWeather API.
+
+## Demo
+
+Check out the live demo of the app here: [Weather App Demo](https://vcr11.github.io/Wheather-APP/)
 
 ## Features
 
@@ -118,3 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to contact me:
 
 - **GitHub**: [vcr11](https://github.com/vcr11)
+
