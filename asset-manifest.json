@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Wheather-APP/static/css/main.12473ca1.css",
+    "main.js": "/Wheather-APP/static/js/main.d68bf36f.js",
+    "static/media/fa-solid-900.ttf": "/Wheather-APP/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Wheather-APP/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Wheather-APP/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Wheather-APP/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/background.png": "/Wheather-APP/static/media/background.da37828d41090154f962.png",
+    "static/media/fa-regular-400.ttf": "/Wheather-APP/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/moon_cloudy.png": "/Wheather-APP/static/media/moon_cloudy.a29dcb48b8f2d29af8d8.png",
+    "static/media/fa-regular-400.woff2": "/Wheather-APP/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/sun_with_cloud.png": "/Wheather-APP/static/media/sun_with_cloud.c083fc151ebd00ab40a2.png",
+    "static/media/moon.png": "/Wheather-APP/static/media/moon.7e62ceda2bae562b0883.png",
+    "static/media/sun.png": "/Wheather-APP/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/fa-v4compatibility.ttf": "/Wheather-APP/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Wheather-APP/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Wheather-APP/index.html",
+    "main.12473ca1.css.map": "/Wheather-APP/static/css/main.12473ca1.css.map",
+    "main.d68bf36f.js.map": "/Wheather-APP/static/js/main.d68bf36f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12473ca1.css",
+    "static/js/main.d68bf36f.js"
+  ]
+}
